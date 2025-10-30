@@ -1,4 +1,4 @@
-package org.example;
+package com.github.stalpo;
 
 // The constants are replaced before compilation
 public class BuildConstants {
